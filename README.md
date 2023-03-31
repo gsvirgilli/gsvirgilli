@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/gsvirgilli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 <div align=center>
 
  ![](https://visitor-badge.glitch.me/badge?page_id=gsvirgilli)
