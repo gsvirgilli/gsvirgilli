@@ -11,7 +11,7 @@ interessado para aprender a "mexer" e fazer <br>
 tudo o que ele possibilitava e
 foi dai que veio a vontade de trabalhar <br> com
 tecnologia,desde de criança.</p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <div align="center">
 
