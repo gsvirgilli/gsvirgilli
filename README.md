@@ -33,7 +33,7 @@ tecnologia,desde de criança.</p>
 
 <div align=center>
     <br>
-<p>Profile views since 03/2023:</p>   
+<p>Profile views since 03/2023</p>   
  <p><img alingn="center" src="https://profile-counter.glitch.me/gsvirgilli/count.svg"></p>
     
  </div>
