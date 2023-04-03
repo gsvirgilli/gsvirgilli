@@ -18,7 +18,7 @@ Hi, I'm Guilherme Silva Virgilli and I'm currently studying at Trybe since March
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
 </p>
-<br><br><br><br>
+<br><br><br><br><br>
 
 <div align="center">
 
