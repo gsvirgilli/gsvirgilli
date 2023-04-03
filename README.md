@@ -1,17 +1,24 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Guilherme and my nickname is Gsvirgilli !
+# Exploring the world of programming and creating amazing things.
+## About Me
+Hi, I'm Guilherme Silva Virgilli and I'm currently studying at Trybe since March 2023. I'm really excited to dive into programming and learn new skills that can change my life and help me achieve my dreams. Programming has always been my passion since I was young, and now I'm finally getting the chance to delve deeper into this field.
+
 
 <hr />
 <img src="https://media.tenor.com/R_WseIIwQ8QAAAAC/beavis-computer.gif" width="370px" align="right" alt="OctoFran">
 
-<p width="50px">Sou Guilherme silva virgilli, moro em Goiânia Go
-tenho 23 anos.<br> Minha infancia desde que eu ganhei
-meu primeiro computador <br> eu sempre fui muito
-interessado para aprender a "mexer" e fazer <br>
-tudo o que ele possibilitava e
-foi dai que veio a vontade de trabalhar <br> com
-tecnologia,desde de criança.</p>
-<br><br><br><br><br><br><br><br>
+## Skills
+
+- Programming Languages: JavaScript
+- Tools: Git, node.js
+- Soft Skills: Effective Communication, Teamwork
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
+</p>
+<br><br><br><br>
 
 <div align="center">
 
