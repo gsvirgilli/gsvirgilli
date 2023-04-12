@@ -26,7 +26,7 @@ Hi, I'm Guilherme Silva Virgilli and I'm currently studying at Trybe since March
 <br>
 <div align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&theme=algolia&show_icons=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsvirgilli&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsvirgilli&theme=algolia&show_icons=true">
 </div>
 
 
