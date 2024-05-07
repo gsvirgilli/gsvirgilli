@@ -61,10 +61,10 @@
 
 <p align="center">
   <a href="https://github.com/gsvirgilli/GSNEWS-IBGE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsvirgilli&repo=GSNEWS-IBGE&show_owner=true&theme=midnight-purple&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsvirgilli&repo=GSNEWS-IBGE&show_owner=false&theme=midnight-purple&hide_border=true" />
   </a>
   <a href="https://github.com/gsvirgilli/Pixels-Art-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsvirgilli&repo=Pixels-Art-&show_owner=true&theme=midnight-purple&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsvirgilli&repo=Pixels-Art-&show_owner=false&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
 
