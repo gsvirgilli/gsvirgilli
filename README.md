@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Ei! Eu sou o Guilherme Silva Virgilli 👋
+<h1>Ei! Eu sou o Guilherme Virgilli 👋
 </div>
 
 - Explorador incansável do tecnologia, buscando constantemente ampliar meus horizontes e aprimorar minhas habilidades técnicas.
