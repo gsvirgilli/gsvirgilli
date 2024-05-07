@@ -16,6 +16,7 @@
 <div align="center">
 <h2>Habilidades Técnicas
 </div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux">
@@ -44,8 +45,8 @@
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-<h3>Estatísticas do GitHub
-<h3>Linguagens Mais Usadas
+<div><h3>Estatísticas do GitHub</div>
+<div><h3>Linguagens Mais Usadas</div>
 </div>
 
 <div align="center">
