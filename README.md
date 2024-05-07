@@ -44,27 +44,29 @@
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-<h2>Estatísticas do GitHub
-<h2>Linguagens Mais Usadas
+<h3>Estatísticas do GitHub
+<h3>Linguagens Mais Usadas
 </div>
 
-<div style="display: flex; justify-content: space-around;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&theme=midnight-purple&hide_border=true" alt="Estatísticas do GitHub" width="45%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvirgilli&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens Mais Usadas" width="45%" />
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=400px&text_bold=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvirgilli&layout=compact&langs_count=8&theme=midnight-purple&card_width=400p&hide_border=true" />
 </div>
 
 
+<div align="center">
+<h2>Contato
+</div>
 
-## Contato
 - 📫 Email: gsvirgilli@gmail.com
 - 🔗 LinkedIn: [linkedin.com/gsvirgilli](https://www.linkedin.com/in/gsvirgilli/)
 - 🌐 Portfolio: [gsvirgilli.github.io](https://gsvirgilli.github.io/)
 
 
-## Projetos em Destaque
+<div align="center">
+<h2>Projetos em Destaque
+</div>
+
 Alguns dos meus projetos em destaque:
 
 - [GSNEWS-IBGE](https://github.com/gsvirgilli/GSNEWS-IBGE): gsnews-ibge é um aplicativo React desenvolvido com TypeScript, JavaScript, HTML e CSS. Este projeto permite aos usuários acessar as notícias mais recentes do IBGE, visualizar as notícias completas, verificar quando foram publicadas e favoritá-las.
