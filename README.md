@@ -45,13 +45,12 @@
 
 <div style="display: flex; justify-content: space-around;">
 <h2>Estatísticas do GitHub
-<h2>|
 <h2>Linguagens Mais Usadas
 </div>
 
 <div style="display: flex; justify-content: space-around;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&theme=midnight-purple&hide_border=true" alt="Estatísticas do GitHub" width="45%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvirgilli&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens Mais Usadas" width="45%" />
 
