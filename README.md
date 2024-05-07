@@ -72,6 +72,6 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=400px&text_bold=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400p&langs_count=8&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvirgilli&layout=compact&langs_count=8&theme=midnight-purple&card_width=400p&hide_border=true" />
 </div>
