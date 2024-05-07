@@ -1,9 +1,9 @@
 
 <div align="center">
-<h1>Ei! Eu sou o Guilherme Virgilli 👋
+<h1>Ei! Eu sou o Guilherme Silva Virgilli 👋
 </div>
 
-- Meu nome é Guilherme Silva Virgilli e sou um(a) entusiasta de desenvolvimento web. Estou sempre aprendendo e buscando aprimorar minhas habilidades.
+- Explorador incansável do tecnologia, buscando constantemente ampliar meus horizontes e aprimorar minhas habilidades técnicas.
 
 
 <div align="center">
@@ -12,6 +12,9 @@
 
 - 🎓 Graduado pela Trybe, escola de desenvolvimento web.
 - 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades em desenvolvimento web.
+- 💻 Apaixonado por codificação e tecnologia, estou sempre buscando novos desafios e soluções criativas. Acompanho meu dia com uma boa xícara de café, uma fonte de inspiração para meus projetos.
+- 🕹️ Nos momentos de descanso, aprecio explorar diferentes universos virtuais e desafiar minhas habilidades em jogos eletrônicos.
+
 
 <div align="center">
 <h2>Habilidades Técnicas
