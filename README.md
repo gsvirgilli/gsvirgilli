@@ -44,32 +44,31 @@
   <img src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=flat" alt="Chai">
 </p>
 
-<div style="display: flex; justify-content: space-around;">
-<div><h3>Estatísticas do GitHub</div>
-<div><h3>Linguagens Mais Usadas</div>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=400px&text_bold=false&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvirgilli&layout=compact&langs_count=8&theme=midnight-purple&card_width=400p&hide_border=true" />
-</div>
-
-
 <div align="center">
 <h2>Contato
 </div>
 
-- 📫 Email: gsvirgilli@gmail.com
-- 🔗 LinkedIn: [linkedin.com/gsvirgilli](https://www.linkedin.com/in/gsvirgilli/)
-- 🌐 Portfolio: [gsvirgilli.github.io](https://gsvirgilli.github.io/)
-
+<p align="center">
+  <a href="mailto:gsvirgilli@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gsvirgilli/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gsvirgilli.github.io/"><img src="https://img.shields.io/badge/-Portfolio-007ACC?style=flat&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://discordapp.com/users/seuusername#1234"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
 <div align="center">
 <h2>Projetos em Destaque
 </div>
 
-Alguns dos meus projetos em destaque:
+<p align="center">
+  <a href="https://github.com/gsvirgilli/GSNEWS-IBGE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsvirgilli&repo=GSNEWS-IBGE&show_owner=true&theme=midnight-purple&hide_border=true" />
+  </a>
+  <a href="https://github.com/gsvirgilli/Pixels-Art-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsvirgilli&repo=Pixels-Art-&show_owner=true&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
 
-- [GSNEWS-IBGE](https://github.com/gsvirgilli/GSNEWS-IBGE): gsnews-ibge é um aplicativo React desenvolvido com TypeScript, JavaScript, HTML e CSS. Este projeto permite aos usuários acessar as notícias mais recentes do IBGE, visualizar as notícias completas, verificar quando foram publicadas e favoritá-las.
-- [Pixels-Art](https://github.com/gsvirgilli/Pixels-Art-): pixels art é um projeto desenvolvido com JavaScript, HTML e CSS. Este aplicativo foi criado para que os usuários criem suas próprias artes pixelizadas.
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsvirgilli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=400px&text_bold=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvirgilli&layout=compact&langs_count=8&theme=midnight-purple&card_width=400p&hide_border=true" />
+</div>
