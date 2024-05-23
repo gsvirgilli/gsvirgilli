@@ -16,6 +16,18 @@
 - 🕹️ Nos momentos de descanso, aprecio explorar diferentes universos virtuais e desafiar minhas habilidades em jogos eletrônicos.
 
 
+
+<div align="center">
+<h2>Contato
+</div>
+
+<p align="center">
+  <a href="mailto:gsvirgilli@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gsvirgilli/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gsvirgilli.github.io/"><img src="https://img.shields.io/badge/-Portfolio-007ACC?style=flat&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://discordapp.com/users/GuilhermeVirgilli#5335"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
 <div align="center">
 <h2>Habilidades Técnicas
 </div>
@@ -45,17 +57,6 @@
   <img src="https://img.shields.io/badge/-Flake8-3423A6?logo=python&logoColor=white&style=flat" alt="Flake8">
   <img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=flat" alt="Mocha">
   <img src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=flat" alt="Chai">
-</p>
-
-<div align="center">
-<h2>Contato
-</div>
-
-<p align="center">
-  <a href="mailto:gsvirgilli@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/gsvirgilli/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://gsvirgilli.github.io/"><img src="https://img.shields.io/badge/-Portfolio-007ACC?style=flat&logo=github&logoColor=white" alt="Portfolio"></a>
-  <a href="https://discordapp.com/users/GuilhermeVirgilli#5335"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <div align="center">
